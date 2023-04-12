@@ -1,0 +1,105 @@
+ .logoweb {
+
+margin-top: 4px;
+padding-top:10px;
+background-image: url("./assets/images/bg-pattern-desktop.svg");
+background-repeat: no-repeat;
+background-size: cover;}
+
+.contentweb {
+  font-size: 11px;
+  text-align: left;
+  padding-left: 120px;
+  padding-bottom:20px;
+  margin-left: 1px;
+  padding-right: 68px;
+
+}
+  
+
+#svglogo{
+    padding-left: 120px;
+    margin-top: 20px;
+}
+
+
+ #one{
+  margin-bottom: 0px;
+  color: hsla(32, 81%, 52%, 0.889);
+  font-size: 68px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: lighter;
+  font: 68px;
+ }
+ #two{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font: 68px;
+  font-size: 68px;
+ }
+ #three{
+  margin-top: 0px;
+  font: 68px;
+  font-size: 68px;
+ }
+ #four{
+  font: 16px;
+  color: hsla(32, 81%, 52%, 0.889);
+ }
+ 
+ #email-form {
+  
+  
+  background-color: none;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  padding-left: 20px;
+  margin-left: 100px;
+  margin-right: 60px;
+}
+
+#send-report-btn {
+  background-color: peachpuff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 35px;
+}
+
+
+.iconweb{
+  padding-left: 40px;
+
+  border-radius:10px ;
+  background-color: peachpuff;
+  border: none;  
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-right:0px;
+}
+
+#svgicon{
+  padding-right: 0px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.imageweb{
+      padding-right:10px;
+      border: none;
+}
+
+
+
+
+
+#svgimage{
+
+border-radius: 5px;
+}
+
+
+.footercontainer{
+  border-bottom: 2px;
+
+}
